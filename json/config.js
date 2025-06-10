@@ -15,7 +15,7 @@
 	"ItemLink": false,
 	"KofiLink": false,
 	"NodesPerAxis": 30,
-	"PathFinder": true,
+	"PathFinder": false,
 	"PinTool": false,
 	"ServersX": 5,
 	"ServersY": 5,
