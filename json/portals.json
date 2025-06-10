@@ -1,1 +1,357 @@
-[]
+[
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_E2",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3771878.25,
+				"worldY": 6536738
+			},
+			{
+				"PortalName": "Dont_Distracted_3",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6367954,
+				"worldY": 1703879.63
+			}
+		],
+		"PathId": 10,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_A1",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3768421,
+				"worldY": 6043157
+			},
+			{
+				"PortalName": "Dont_Distracted_1",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 679868.8,
+				"worldY": 931712.4
+			}
+		],
+		"PathId": 11,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_B3",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3322423.5,
+				"worldY": 6043587.5
+			},
+			{
+				"PortalName": "Dont_Distracted_5",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 2254051.5,
+				"worldY": 3165157.75
+			}
+		],
+		"PathId": 12,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_C2",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3325451,
+				"worldY": 6528084.5
+			},
+			{
+				"PortalName": "Dont_Distracted_6",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3527154.5,
+				"worldY": 1892054.88
+			}
+		],
+		"PathId": 13,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_Maw_Waters",
+				"RequiredResource": {
+					"/Game/Atlas/AtlasCoreBP/Items/PrimalItemResource_GoldCoin.PrimalItemResource_GoldCoin": 500,
+					"/Game/Atlas/AtlasCoreBP/Items/Resources/PrimalItemResource_MagicMarrow.PrimalItemResource_MagicMarrow": 1000
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 5232723,
+				"worldY": 2160692.75
+			},
+			{
+				"PortalName": "OutPut_Maw_Waters_2",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3235157.75,
+				"worldY": 5162409.5
+			},
+			{
+				"PortalName": "OutPut_Maw_Waters_3",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3901145.5,
+				"worldY": 5109851
+			},
+			{
+				"PortalName": "OutPut_Maw_Waters_1",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3480671.25,
+				"worldY": 4619297.5
+			}
+		],
+		"PathId": 16,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_0",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 690999.063,
+				"worldY": 730127
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_0",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3926718.25,
+				"worldY": 6274494.5
+			}
+		],
+		"PathId": 18,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_5",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 304650.9,
+				"worldY": 4960632
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_5",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3926814.5,
+				"worldY": 6379086
+			}
+		],
+		"PathId": 20,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_4",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6073675.5,
+				"worldY": 3550592.25
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_4",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 4031549.25,
+				"worldY": 6385762.5
+			}
+		],
+		"PathId": 22,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_1",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 2114209,
+				"worldY": 2195730.75
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_1",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3926863,
+				"worldY": 6158945.5
+			}
+		],
+		"PathId": 24,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_2",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3451766.75,
+				"worldY": 830343.438
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_2",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 4037892.75,
+				"worldY": 6276174
+			}
+		],
+		"PathId": 26,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_3",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6221185.5,
+				"worldY": 605973.438
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_3",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3921382.5,
+				"worldY": 6502274.5
+			}
+		],
+		"PathId": 27,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_7",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6318950.5,
+				"worldY": 6353752
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_7",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 4033135,
+				"worldY": 6500397.5
+			}
+		],
+		"PathId": 28,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Portal_To_PRIVILEGES_6",
+				"RequiredResource": {
+					"/Game/Mods/ZeusCoin/PrimalItemResource_ZeusCoin.PrimalItemResource_ZeusCoin": 1
+				},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 1682054.63,
+				"worldY": 4835374
+			},
+			{
+				"PortalName": "OutPut_Portal_Of_PRIVILEGES_6",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 4035876,
+				"worldY": 6155774
+			}
+		],
+		"PathId": 29,
+		"PathName": "",
+		"PathPortalType": 1,
+		"isLooping": false
+	}
+]
